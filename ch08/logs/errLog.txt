@@ -1,0 +1,2 @@
+20240306	01:29:46	85c03b4d-495c-41f8-bead-e7284748b937	Error	Not allowed due to cors policy	/
+20240308	16:39:29	e875ff24-f6f5-4ded-9744-e628e0dd88b2	SyntaxError	Expected double-quoted property name in JSON at position 10 (line 1 column 11)	/employees
