@@ -17,5 +17,6 @@ Chapter 11: JWT Auth
 Chapter 12: User Roles | Authorization  
 Chapter 13: Intro to MongoDB & Mongoose
 Chapter 14: Mongoose Data Models
+Chapter 15: Async CRUD Operations
 
 [https://www.youtube.com/watch?v=f2EqECiTBL8&t=20390s] (#Tutorial Link)
